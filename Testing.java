@@ -2,7 +2,7 @@ package testing;
 
 import java.util.*;
 
-class Main{
+class Testing{
     public static void main(String[] args) {
         Joption a = new Joption();
         a.display();
