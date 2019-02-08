@@ -1,2 +1,0 @@
-javac -d . file1.java file2.java file3.java to compile multiple files
-java packagename/Main to run
